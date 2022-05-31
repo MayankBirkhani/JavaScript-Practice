@@ -2,7 +2,6 @@ const name = "Mayank"
 
 //Functions
 const greet = () => "Hello!";
-
 let resultOne = greet();
 console.log(resultOne);
 
